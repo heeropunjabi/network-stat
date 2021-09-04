@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "network-stat",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

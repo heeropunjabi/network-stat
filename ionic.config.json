@@ -1,0 +1,7 @@
+{
+  "name": "network-stat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
