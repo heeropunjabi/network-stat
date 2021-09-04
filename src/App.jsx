@@ -26,11 +26,11 @@ const App = () => (
   <IonApp>
     <IonReactRouter>
       <IonRouterOutlet>
-        <Route exact path='/home'>
+        <Route exact path='/network-stat'>
           <Home />
         </Route>
         <Route exact path='/'>
-          <Redirect to='/home' />
+          <Redirect to='/network-stat' />
         </Route>
       </IonRouterOutlet>
     </IonReactRouter>
