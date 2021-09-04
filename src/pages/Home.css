@@ -1,0 +1,9 @@
+.header-row {
+    background: #6370ff;
+    color: #fff;
+    font-size: 18px;
+  }
+  
+  ion-col {
+    border: 1px solid #ECEEEF;
+  }
